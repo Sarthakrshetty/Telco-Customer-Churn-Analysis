@@ -16,3 +16,4 @@ Sample Results
 
 Tech Stack: Python (pandas, scikit-learn, xgboost), matplotlib, seaborn, SHAP.
 Author: [Sarthak R Shetty](https://github.com/Sarthakrshetty)
+[LinkedIn Profile]www.linkedin.com/in/sarthak-r-shetty22 
